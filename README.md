@@ -1,5 +1,5 @@
-# sales-performance-dashboard
-Sales performance dashboard developed using Power BI to provide a clear and interactive overview of sales metrics and trends.
+
+
 # Sales Performance Dashboard
 
 This is a dashboard developed using Power BI to share insights as part of my journey in data analytics. The dashboard provides a clear and interactive overview of sales performance, focusing on key metrics and trends to support better business insights.
